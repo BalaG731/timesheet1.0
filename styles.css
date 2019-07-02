@@ -1,0 +1,10 @@
+/*styles for time sheet*/
+h1 {
+    color: #333333;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    /* margin-bottom: -24px; */
+    margin-left: 18px;
+    margin-top: 13px;
+}
